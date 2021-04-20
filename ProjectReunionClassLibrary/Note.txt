@@ -1,0 +1,1 @@
+﻿Dieses Projekt kann nicht genutzt werden, da die .NET -Versionen nicht passen.
